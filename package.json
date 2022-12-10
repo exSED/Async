@@ -1,0 +1,15 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "Recurso asincrono",
+  "main": "index.js",
+  "scripts": {
+    "test": "testStart"
+  },
+  "keywords": [
+    "async",
+    "javascript"
+  ],
+  "author": "Sebastian Blanco",
+  "license": "MIT"
+}
